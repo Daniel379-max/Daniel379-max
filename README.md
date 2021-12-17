@@ -7,9 +7,6 @@
 <a href="https://github.com/Daniel379-max/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel379-max&show_icons=true&count_private=true&hide=issues&hide_border=true" />
 </a>
-<a href="https://github.com/Daniel379-max/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel379-max&layout=compact&langs_count=6&hide_border=true" />
-</a>
 
 
 - 🔭 I’m currently working as @Rhitmotech
